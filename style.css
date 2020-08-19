@@ -1,0 +1,40 @@
+.parent{
+    display: flex;
+    padding: 20px;
+    border: 1px solid lightgray;
+
+}
+h2{
+    margin-left: 600px;
+    margin-top: -49px;
+}
+div{
+    
+    margin: 20px;
+    padding: 5px;
+ margin-top: 20px;
+ 
+    
+}
+
+
+img{
+    margin-top: -10px;
+    width: 177px;
+    margin-left: -10px;
+}
+.r{
+    border: 5px solid whitesmoke;
+}
+.m{
+    border: 5px solid whitesmoke;
+}
+.q{
+    border: 5px solid whitesmoke;
+}
+p {
+ 
+    
+    border-left-style: solid;
+
+  }
